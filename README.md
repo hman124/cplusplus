@@ -1,4 +1,4 @@
-# cplusplus-adventures
+# cplusplus
 
 Come along as I venture into the c++ realm
 
